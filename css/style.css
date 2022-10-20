@@ -1,0 +1,46 @@
+body{
+  background:-webkit-radial-gradient(center center, ELLIPSE, black 500px, #BA68C8  );
+}
+img{
+width: 300px;
+height: auto;
+}
+.mariposas1{
+padding-left: 80%;
+}
+input{
+  width: 30%;
+  height: 28px;
+  text-align: center;
+  margin-left: 35% ;
+  margin-top:10px;
+  border-radius: 1px;
+  font-size: 20px;
+  color: #BA68C8;
+  background-color: black;
+
+}
+input:hover{
+  box-shadow: 4px 4px 4px;
+}
+p{
+  background-color: transparent;
+}
+h1{
+  font-family: 'Great Vibes', cursive;
+  font-family: 'Sacramento', cursive;
+  color: #c99d4c;
+  font-size: 70px;
+  text-shadow: 4px 4px 4px white;
+  text-align: center;
+}
+.completo{
+width: 100%;
+overflow: visible;
+}
+.main{
+  width: 70%;
+  padding: 20px;
+  float: left;
+  box-sizing: border-box;
+}
